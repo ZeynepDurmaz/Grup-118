@@ -14,6 +14,12 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/0.unity
     guid: 1817f80fbc801e7419e2dcfe3a29ef2d
+  - enabled: 0
+    path: Assets/Scenes/0.1.unity
+    guid: 751aa8bd1ae1e974c922909d0a271730
+  - enabled: 1
+    path: Assets/Scenes/0.2.unity
+    guid: 519e0382ab9d70549a3d592ffb830a11
   - enabled: 1
     path: Assets/Scenes/1.unity
     guid: 84bd6253be9739b4e8d33c5e38ef992a
@@ -59,4 +65,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/4B2.2.unity
     guid: 4a4a93aba7668a84a92454e47d799ff5
+  - enabled: 1
+    path: Assets/Scenes/SON.unity
+    guid: ac4c024fc09d4204095ded3416b7012c
+  - enabled: 1
+    path: Assets/Scenes/gelistirici.unity
+    guid: fe1c00d6c210ac14094076f59e0a32d4
   m_configObjects: {}
