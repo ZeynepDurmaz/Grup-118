@@ -6,9 +6,7 @@ U118 Unity Takımı
 ## **TAKIM ÜYELERİ**<br/>
 Emir Fişekçi (Devoloper)<br/>
 Zeynep Durmaz(Scrum Master)<br/>
-Zehra Nur Soydan(Devoloper)<br/>
-Umutcan Atalay(Devoloper)<br/>
-Vedat Çamalan(Devoloper)<br/>
+
 
 ## **OYUN İSMİ**<br/>
 Kadim Orman: Büyücünün Yolu
